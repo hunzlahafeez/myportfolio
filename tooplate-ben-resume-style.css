@@ -63,6 +63,7 @@ https://www.tooplate.com/view/2120-ben-resume
   body {
     font-family: var(--base-font-family);
     text-align: justify;
+	  hyphens: auto;
   }
 
   /*---------------------------------------
